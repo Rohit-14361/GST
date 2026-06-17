@@ -3,8 +3,8 @@
 An interactive, responsive, and premium tax suite built using **React**, **Vite**, and **Tailwind CSS v4** to calculate goods and services tax (GST). This tool was built as a trial task submission for **Digital Heroes**.
 
 ## 🚀 Live Demo & Repository
-- **Live Tool URL (Vercel)**: `[Your Vercel Live Deployment URL goes here]`
-- **GitHub Repository**: `[Your GitHub Repository URL goes here]`
+- **Live Tool URL (Vercel)**: `https://gst-wheat.vercel.app/`
+- **GitHub Repository**: `https://github.com/rohit-14361/GST`
 
 ---
 
